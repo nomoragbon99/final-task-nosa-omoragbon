@@ -82,3 +82,10 @@
 - **Load Test & Failure Drill Report:** [REPORT.md](./system-design/REPORT.md)
 - **Architecture Diagram:** Contained within DESIGN.md
 - **Walkthrough Video & Mock Interview:** (Triage skip for deadline constraints)
+
+## Part 4: Retrieval-Augmented Generation (RAG)
+- **RAG Notes:** [RAG-NOTES.md](./rag-project/RAG-NOTES.md)
+- **Evaluation Report:** [EVALUATION.md](./rag-project/EVALUATION.md)
+- **RAG Pipeline Source Code:** [rag-pipeline.js](./rag-project/rag-pipeline.js)
+- **Architecture Diagram:** Contained within RAG-NOTES.md
+- **Demo Video & Posts:** (Triage skip for deadline constraints)
