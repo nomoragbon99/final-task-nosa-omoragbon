@@ -1,0 +1,17 @@
+{
+  "name": "relay-notification-prototype",
+  "version": "1.0.0",
+  "description": "Relay High-Throughput Notification Platform Prototype demonstrating Adapter, Strategy, and Retry patterns.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "worker": "node worker.js",
+    "test:load": "k6 run load-test.js"
+  },
+  "dependencies": {
+    "bullmq": "^5.41.0",
+    "express": "^4.21.2",
+    "ioredis": "^5.5.0"
+  }
+}
